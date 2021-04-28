@@ -3,15 +3,15 @@
 # Procesverslag
 
 ## Over
-* **Naam:** `voornaam + achternaam`
-* **Klas:** `vid-1/vid-2`
+* **Naam:** `Joey Yzer`
+* **Klas:** `vid-2`
 * **Minor:** `Visual Interface Design`
 * **Favoriete dier:** `Zeeotters zijn te gek!`
-* **Startniveau:** `blauw/rood/zwart`
+* **Startniveau:** `blauw `
 
 ## Concept
 
-`Beschrijf in het algemeen je concept van je project.`
+`het bewegen van de muis zorgt ervoor dat er een soort van circuit op het scherm gebrand wordt.`
 
 ## Features
 
@@ -19,6 +19,12 @@
 
 ## Onderzoek & inspiratie
 `Schrijf wat over je onderzoek en je inspiratie voor het project. Hoe kwam je concept tot stand?`
+
+![img_0](https://im.ezgif.com/tmp/ezgif-1-2ea434bd9e69.gif)
+![img_1](https://i.pinimg.com/originals/a4/e8/c5/a4e8c57fd90c17efe1b56e7e9d6ed21a.jpg)
+![img_2](https://i.pinimg.com/originals/ef/a9/f3/efa9f308c81312f82ef6730db9a5b0e0.jpg)
+![img_3](https://previews.123rf.com/images/arturaliev/arturaliev1701/arturaliev170100047/69813480-abstract-circuit-tree-board-technology-modern-background-for-design-vector-illustration.jpg)
+
 
 ## Voortang
 
@@ -36,6 +42,6 @@
 
 ## Bronnenlijst
 
-* `Link naar bron 1`
+*  [p5.org/get-started/](https://p5js.org//get-started/)
 * `Link naar bron 2`
 * `Link naar bron 3`
