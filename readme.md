@@ -14,9 +14,12 @@
 het bewegen van de muis zorgt ervoor dat er een soort van circuit op het scherm gebrand wordt.
 
 `2e conept`
-Een sound visualizer op het nummer sterrenstof. ik wil hier een soort van videoclip van maken waarbij de sterren random mee meebewegen en de gebruiker dmv mic input invloed heeft op het uiterlijk van het beeld. 
+Muziek luisteren is een van de dingen die ik bijna elke dag wel doe. En dit begon allemaal met mijn eerste MP3 speler waar onder andere De Jeugd van Tegenwoordig op te vinden was.
+![Voorbeeld](http://s.s-bol.com/imgbase0/imagebase/large/FC/1/8/2/3/9200000014683281.jpg)
+ Ik kwam daarom op het idee om een sound visualizer op het nummer sterrenstof te maken. Ik wil hier een soort van videoclip van maken waarbij de sterren random mee meebewegen en de gebruiker dmv mic input invloed heeft op het uiterlijk van het beeld. 
 De sterren blij ven oneindig doorgaan zoals het voorbeeld hieronder.
 ![Voorbeeld](https://media.giphy.com/media/3o7buijTqhjxjbEqjK/giphy.gif)
+
 
 
 
@@ -64,6 +67,24 @@ Dit was het resultaat:
 Weer een ander concept.. muziek visualizer met microfoon input voor het nummer Sterrenstof van de Jeugd van tegenwoordig.
 Ik wil hierbij de sterren (zie afbeelding hieronder) random op het scherm visualizeren in verschillende grotes en kleuren. Daarbij wil ik de muziekvisualatie in een soort van smiley tonen waarbij de ogen en de mond reageren op geluid.
 ![voorbeeld_01](assets/voorbeeld_01.jpg )
+
+###week-4
+Vakantie
+
+### week-5
+Webcam input krijg ik maar niet voor elkaar. uiteindelijk besloten om dit te laten vallen en door de gaan met het rond krijgen van de visualisatie.
+Ik heb helaas geen feedback van medestudenten kunnen krijgen omdat ik nog niets echt werkend had.
+ [Tetoki.eu Vida](https://www.tetoki.eu/vida/)
+ [Computer vision - The coding Train](https://www.youtube.com/watch?v=nCVZHROb_dE&t=219s)
+
+### week-6
+Laaste week om alles voor elkaar te krijgen.
+Omdat ik hier en daar nog wat vast liep heb ik besloten om eerst volledig alles van het vak Interactie & en beweging af te maken. zodat ik dat vak in ieder geval goed met een voldoende kon afsluiten.
+
+
+### Feedback
+
+Hand de hand van de feedback heb ik de sterren aangepast, deze zijn nu meer random in grote, positie en kleur. Ook veranderd de achterfrond op random momenten van kleur.
 
 ### Resultaat
 
